@@ -1,0 +1,23 @@
+h1 {text-align: center;}
+p {text-align: center;}
+.required-star{
+color:red;
+}
+
+.container{
+position.relative;
+width:1000px;
+
+margin:50px auto;
+}
+
+.container .box{
+position.relative;
+width:800px;
+height:450px;
+background:#f5f5f5;
+border:1px solid #ccc
+border-radius:20px;
+margin:50px auto ;
+
+}
